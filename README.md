@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Noutin F. Michodigni
-- I am interested in primer design, antimicrobial resistance and phage research project
+- I am interested in primer design, antimicrobial resistance, phage research and development of monoclonal antibodies projects
 - 👀 I really want to embrace the knowledge of phage genomics and bioinformatics
 - 🌱 I’m currently annotating some bacterial and phage genomes.
 - 💞️ As an African, I'm very grateful to those who make available their resources on this platform
